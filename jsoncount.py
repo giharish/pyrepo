@@ -24,4 +24,3 @@ for item in info:
     item = int(item['count'])
     nums.append(item)
 print ("The Sum is:", sum(nums))
-
